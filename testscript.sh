@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "calculate 2 parameter values"
-NUMBER=$(($num1 + $num2))
-echo $NUMBER
-echo "the value is : $NUMBER"
+echo "This is a simple program"
+echo "this is second line"
